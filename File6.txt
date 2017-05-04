@@ -1,0 +1,3 @@
+New File 7 from v2
+
+Changes after the latest pull
